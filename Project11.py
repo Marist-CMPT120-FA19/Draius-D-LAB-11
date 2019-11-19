@@ -1,4 +1,5 @@
 #Draius Disimone Lab 11
+#draius.disimone1@marist.edu
 
 #import math lib
 import math
